@@ -101,7 +101,7 @@ print(nb_train_samples)
     158
     
 
-### **3. Formulate Model **
+### **3. Formulate Model**
 
 
 * Number of filters=32
